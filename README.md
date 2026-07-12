@@ -25,7 +25,7 @@ Tailwind CSS
 Lucide React
 
 You can view the live site here:
-https://your-live-link.com
+[https://your-live-link.com](https://khalid-gold.vercel.app/)
 
 Author
 Khalid Abdullahi
